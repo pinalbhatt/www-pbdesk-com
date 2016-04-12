@@ -22,3 +22,5 @@ markdown: kramdown
 permalink: /:categories/:title
 source: src
 destination: serve
+
+port: 4001
