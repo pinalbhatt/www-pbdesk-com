@@ -2,6 +2,10 @@ _site/
 .sass-cache/
 .jekyll-metadata
 
+serve/
+serve/.sass-cache/
+src/.sass-cache/
+
 #IDE configuration files
 .idea/workspace.xml
 .idea/tasks.xml
